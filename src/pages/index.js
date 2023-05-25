@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home({ Component, pageProps }) {
   return (
     <div className={`${inter.className}`}>
-      <h1 className='text-red-400'>home</h1>
+      <h1 className='text-red-400'>home test</h1>
     </div>
   )
 }
